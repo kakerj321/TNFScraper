@@ -1,0 +1,5666 @@
+[
+  {
+    "Sku": "NF0A5GJF$color=5HO&size=XL",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJF5HO",
+    "Availability": "OutOfStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "5HO",
+      "Size": "XL"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=5HO&size=L",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJF5HO",
+    "Availability": "OutOfStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "5HO",
+      "Size": "L"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=5HO&size=S",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJF5HO",
+    "Availability": "OutOfStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "5HO",
+      "Size": "S"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=5HO&size=M",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJF5HO",
+    "Availability": "OutOfStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "5HO",
+      "Size": "M"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=5HO&size=XXL",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJF5HO",
+    "Availability": "OutOfStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "5HO",
+      "Size": "XXL"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=5HO&size=3XL",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJF5HO",
+    "Availability": "OutOfStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "5HO",
+      "Size": "3XL"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=0UZ&size=M",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJF0UZ",
+    "Availability": "OutOfStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "0UZ",
+      "Size": "M"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=0UZ&size=S",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJF0UZ",
+    "Availability": "OutOfStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "0UZ",
+      "Size": "S"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=0UZ&size=XXL",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJF0UZ",
+    "Availability": "OutOfStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "0UZ",
+      "Size": "XXL"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=0UZ&size=L",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJF0UZ",
+    "Availability": "OutOfStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "0UZ",
+      "Size": "L"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=0UZ&size=3XL",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJF0UZ",
+    "Availability": "OutOfStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "0UZ",
+      "Size": "3XL"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=0UZ&size=XL",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJF0UZ",
+    "Availability": "OutOfStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "0UZ",
+      "Size": "XL"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=BRI&size=L",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJFBRI",
+    "Availability": "InStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "Woodland Green",
+      "Size": "L"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=BRI&size=3XL",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJFBRI",
+    "Availability": "InStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "Woodland Green",
+      "Size": "3XL"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=BRI&size=XXL",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJFBRI",
+    "Availability": "InStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "Woodland Green",
+      "Size": "XXL"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=BRI&size=S",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJFBRI",
+    "Availability": "InStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "Woodland Green",
+      "Size": "S"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=BRI&size=M",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJFBRI",
+    "Availability": "InStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "Woodland Green",
+      "Size": "M"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=BRI&size=XL",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJFBRI",
+    "Availability": "InStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "Woodland Green",
+      "Size": "XL"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=KX7&size=XXL",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJFKX7",
+    "Availability": "InStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "TNF Black/TNF Black",
+      "Size": "XXL"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=KX7&size=S",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJFKX7",
+    "Availability": "InStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "TNF Black/TNF Black",
+      "Size": "S"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=KX7&size=3XL",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJFKX7",
+    "Availability": "InStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "TNF Black/TNF Black",
+      "Size": "3XL"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=KX7&size=M",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJFKX7",
+    "Availability": "InStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "TNF Black/TNF Black",
+      "Size": "M"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=KX7&size=L",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJFKX7",
+    "Availability": "InStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "TNF Black/TNF Black",
+      "Size": "L"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  },
+  {
+    "Sku": "NF0A5GJF$color=KX7&size=XL",
+    "RootDomain": "thenorthface.com",
+    "Name": "Men’s McMurdo Parka",
+    "Brand": "The North Face",
+    "Currency": "USD",
+    "Price": 400,
+    "ImageUrls": [
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560845/NF0A5GJFBRI-HERO/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560657/NF0A5GJFBRI-HERO2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561062/NF0A5GJFBRI-HERO3/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560890/NF0A5GJFBRI-BACK/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/videos/t_productvideo/v1723179107/NF0A5GJF000-VIDEO1/Mens-McMurdo-Parka.mp4",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560798/NF0A5GJFBRI-MODEL34/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561171/NF0A5GJFBRI-MODELINT/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751561154/NF0A5GJFBRI-MODELHOOD2/Mens-McMurdo-Parka.png",
+      "https://assets.thenorthface.com/images/t_Thumbnail/v1751560994/NF0A5GJFBRI-ALT1/Mens-McMurdo-Parka.png"
+    ],
+    "StarRatingDistribution": {
+      "1 Star": {
+        "Number": 18,
+        "Percentage": 1.7
+      },
+      "2 Star": {
+        "Number": 19,
+        "Percentage": 1.7
+      },
+      "3 Star": {
+        "Number": 40,
+        "Percentage": 3.7
+      },
+      "4 Star": {
+        "Number": 101,
+        "Percentage": 9.3
+      },
+      "5 Star": {
+        "Number": 912,
+        "Percentage": 83.7
+      }
+    },
+    "Category": "Home>Men's>Men's Jackets & Vests>Men's Parkas",
+    "CategoryLvl1": "Home",
+    "CategoryLvl2": "Men's",
+    "CategoryLvl3": "Men's Jackets & Vests",
+    "CategoryLvl4": "Men's Parkas",
+    "Date": "2025-08-15T20:09:34",
+    "Time": "20:09:34.992128",
+    "Url": "https://www.thenorthface.com/en-us/p/-NF0A5GJF",
+    "Mpn": "NF0A5GJFKX7",
+    "Availability": "InStock",
+    "AverageCustomerReview": 4.72,
+    "NumberOfCustomerReviews": 1090,
+    "Attributes": {
+      "Color": "Woodland Green, TNF Black/TNF Black",
+      "Size": "S, M, L, XL, XXL, 3XL",
+      "badge": "Sale"
+    },
+    "Description": "The McMurdo Parka, our longest men’s coat, has a long list of must-have features. It is windproof, waterproof, breathable, and insulated with 600-fill recycled down.",
+    "Features": "[\"600 Fill Recycled Waterfowl Down\",\"Adjustable Hook-And-Loop Cuff Tabs\",\"Attached, Adjustable, Three-Piece Hood With An Internal Drawcord With Cord Locks And Removable Faux-Fur Ruff\",\"Body Fabric Made With Recycled Nylon; Lining Made With Recycled Polyester\",\"Dual-Entry Patch Hand Pockets With A Hook-And-Loop Flap-Closure Top Entry And A Secure-Zip Side Entry\",\"Logo On Left Chest And Back-Right Shoulder\",\"Relaxed Fit\",\"Secure-Zip, Internal Chest Pocket\",\"Stormflap With A Hook-And-Loop Closure Covers The Two-Way, VISLON\\u00AE Center Front Zip\",\"Two Concealed, Secure-Zip Alpine Chest Pockets\",\"Waterproof, Breathable, Seam-Sealed DryVent\\u2122 2L Shell With A Non-PFC DWR Finish Helps Keep You Dry\"]",
+    "Variants": [
+      "NF0A5GJF$color=5HO&size=XL",
+      "NF0A5GJF$color=5HO&size=L",
+      "NF0A5GJF$color=5HO&size=S",
+      "NF0A5GJF$color=5HO&size=M",
+      "NF0A5GJF$color=5HO&size=XXL",
+      "NF0A5GJF$color=5HO&size=3XL",
+      "NF0A5GJF$color=0UZ&size=M",
+      "NF0A5GJF$color=0UZ&size=S",
+      "NF0A5GJF$color=0UZ&size=XXL",
+      "NF0A5GJF$color=0UZ&size=L",
+      "NF0A5GJF$color=0UZ&size=3XL",
+      "NF0A5GJF$color=0UZ&size=XL",
+      "NF0A5GJF$color=BRI&size=L",
+      "NF0A5GJF$color=BRI&size=3XL",
+      "NF0A5GJF$color=BRI&size=XXL",
+      "NF0A5GJF$color=BRI&size=S",
+      "NF0A5GJF$color=BRI&size=M",
+      "NF0A5GJF$color=BRI&size=XL",
+      "NF0A5GJF$color=KX7&size=XXL",
+      "NF0A5GJF$color=KX7&size=S",
+      "NF0A5GJF$color=KX7&size=3XL",
+      "NF0A5GJF$color=KX7&size=M",
+      "NF0A5GJF$color=KX7&size=L",
+      "NF0A5GJF$color=KX7&size=XL"
+    ],
+    "VariantAttributes": {
+      "Color": "TNF Black/TNF Black",
+      "Size": "XL"
+    },
+    "VariantsAttributes": [
+      {
+        "NF0A5GJF$color=5HO&size=XL": {
+          "Color": "5HO",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=L": {
+          "Color": "5HO",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=S": {
+          "Color": "5HO",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=M": {
+          "Color": "5HO",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=XXL": {
+          "Color": "5HO",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=5HO&size=3XL": {
+          "Color": "5HO",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=M": {
+          "Color": "0UZ",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=S": {
+          "Color": "0UZ",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XXL": {
+          "Color": "0UZ",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=L": {
+          "Color": "0UZ",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=3XL": {
+          "Color": "0UZ",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=0UZ&size=XL": {
+          "Color": "0UZ",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=L": {
+          "Color": "Woodland Green",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=3XL": {
+          "Color": "Woodland Green",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XXL": {
+          "Color": "Woodland Green",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=S": {
+          "Color": "Woodland Green",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=M": {
+          "Color": "Woodland Green",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=BRI&size=XL": {
+          "Color": "Woodland Green",
+          "Size": "XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XXL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XXL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=S": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "S"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=3XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "3XL"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=M": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "M"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=L": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "L"
+        }
+      },
+      {
+        "NF0A5GJF$color=KX7&size=XL": {
+          "Color": "TNF Black/TNF Black",
+          "Size": "XL"
+        }
+      }
+    ]
+  }
+]
