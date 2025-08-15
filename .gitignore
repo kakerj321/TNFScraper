@@ -1,0 +1,76 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build artefacts
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+# Test artefacts
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Paket / NuGet
+packages/
+*.nupkg
+*.snupkg
+!packages.config
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# User secrets
+appsettings.*.local.json
+secrets.json
+
+# Publish artefacts
+publish/
+dist/
+
+# Tymczasowe pliki
+*.tmp
+*.temp
+*.bak
+
+# Kompilacja Roslyn / analyzers
+*.cache
+*.ide
+
+# System
+[Dd]esktop.ini
+[Tt]humbs.db
+$RECYCLE.BIN/
+
+# Crash dumps
+*.dmp
+
+# Coverage narzędzia
+coverage/
+.coverage
+lcov.info
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Dotnet tooling
+.globalconfig
+.nuget/packages/
+.nuget/ NuGet.Config
+
+# Auto-generated lock
+# packages.lock.json
+
+# JetBrains Rider
+*.sln.iml
